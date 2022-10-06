@@ -14,12 +14,12 @@ My Porfotilio  : :simple_smile:
   <li> SCSS </li>  
  </ul>
   
-<h2>My Library </h2>
+<h2>:closed_book:My Library:closed_book: </h2>
  <ul>
- <li> React<li/>
-   </ul>
+ <li> React</li>
+ </ul>
    
-  <h2> My FrameWork</h2>
+  <h2>:globe_with_meridians: My FrameWork:globe_with_meridians:</h2>
   <ul>
   <li>
     Taiwind CSS </li>
