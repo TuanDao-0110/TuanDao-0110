@@ -17,6 +17,7 @@ My name is <h3> Dao Nhat Tuan </h3>
   </div>
 </br>
 <hr/>
+
 My Porfotilio :gift_heart: https://my-web-porfolio.pages.dev/ :gift_heart:
 </br>
 <h2>:pencil2:My coding language:pencil2:</h2>
@@ -54,6 +55,13 @@ My Porfotilio :gift_heart: https://my-web-porfolio.pages.dev/ :gift_heart:
   <img src=https://banner2.cleanpng.com/20181109/oll/kisspng-…ogo-svg-5be5b5a7384425.8069537615417809032305.jpg with=30 height=30/>
   
 </span>
+
+<div style="display: flex; flex-direction: column;">
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=TuanDao-0110&show_icons=true&theme=radical" />
+</div>
+
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuanDao-0110&theme=radical&layout=compact" />
+
 
   
 
