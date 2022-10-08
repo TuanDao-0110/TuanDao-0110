@@ -52,6 +52,8 @@ My Porfotilio :gift_heart: https://my-web-porfolio.pages.dev/ :gift_heart:
   
   </br>
   
+  
+ 
 
   
 
@@ -75,6 +77,15 @@ My Porfotilio :gift_heart: https://my-web-porfolio.pages.dev/ :gift_heart:
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
  </div>
   
+  
+  
+    ### ⚽ 🕹️ ⚽ 🕹️ ⚽ 🕹️ My Hobby ⚽ 🕹️ ⚽ 🕹️ ⚽ 🕹️
+
+  <div style="diplay: flex; justify-content:space-betwen"> 
+  <img class="img" src="https://cdn.akamai.steamstatic.com/steam/apps/570/capsule_616x353.jpg?t=1662588548" width="350" height="350" />
+    <img class="img" src="https://www.agerpres.ro/data/stiri/gbadea_26_aprilie_2022_258590962_10158318423401937_6790500361506044764_n.png" width="350" height="350" />
+
+  </div>
   
   
 
