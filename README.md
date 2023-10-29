@@ -35,7 +35,7 @@
 
   <div style="diplay: flex; justify-content:space-betwen"> 
   <img class="img" src="https://cdn.akamai.steamstatic.com/steam/apps/570/capsule_616x353.jpg?t=1662588548" width="350" height="350" />
-    <img class="img" src="https://www.agerpres.ro/data/stiri/gbadea_26_aprilie_2022_258590962_10158318423401937_6790500361506044764_n.png" width="350" height="350" />
+    <img class="img" src="https://assets-eu-01.kc-usercontent.com/1293c890-579f-01b7-8480-902cca7de55e/977004a8-875c-481d-9859-31278ee54f6f/Comunicato-Ufficiale-19-20-Verticale.jpg?auto=format" width="350" height="350" />
 
   </div>
   
